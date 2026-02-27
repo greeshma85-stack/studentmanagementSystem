@@ -37,7 +37,9 @@ StudentResultManagementSystem
 │
 ├── Student.java   (Student class with marks & logic)
 ├── Main.java      (Menu-driven program execution)
-▶️ How to Run
+
+---
+## How to Run
 
 Clone the repository
 Open the project in any Java IDE
